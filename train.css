@@ -1,0 +1,57 @@
+body {
+    background-color: aqua;
+}
+#main {
+    margin: 20px 100px 20px 100px;
+}
+
+#heading {
+    text-align: center;
+    border: 1px pink solid;
+    padding: 75px;
+    margin: 0 50px 20px 50px;
+    background-color: chocolate;
+}
+
+#schedule {
+    border: 1px  solid;
+    background-color: grey;
+    padding: 0 10px 10px 10px;
+    margin: 0 50px 20px 50px;
+}
+
+#tableInfo {
+    background-color: goldenrod;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#addTrain {
+    border: 1px  solid;
+    padding: 0 10px 10px 10px;
+    background-color: grey;
+    margin: 0 50px 20px 50px;
+}
+
+#formInfo {
+    border: 1px white solid;
+    background-color: goldenrod;
+    padding: 10px;
+}
+
+.background {
+    background-color: crimson;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 10px;
+}
